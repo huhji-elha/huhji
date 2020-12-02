@@ -1,9 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuhji&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitBlog Badge](https://img.shields.io/badge/GitBlog-blueviolet?style=flat&logo=GitHub&logoColor=white&link=https://huhji.github.io/)](https://huhji.github.io/)
 
 ### Hi there 👋
 
 ## ⚡ Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=plastic&logo=Python&logoColor=white) \
+![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) \
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhji)](https://github.com/anuraghazra/github-readme-stats)
 
 
