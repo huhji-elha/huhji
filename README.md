@@ -5,7 +5,7 @@
 
 ## ⚡ Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) \
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhji)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhji&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
