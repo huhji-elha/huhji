@@ -2,6 +2,12 @@
 [![GitBlog Badge](https://img.shields.io/badge/GitBlog-blueviolet?style=flat&logo=GitHub&logoColor=white&link=https://huhji.github.io/)](https://huhji.github.io/)
 
 ### Hi there, Welcome to my github 👋
+I'm interested in Machine Learning, Computer Vision and MLOps.
+You can visit my tech blog! it can helps you understand basic deep learning functions.
+
+👼 I worked as an Machine Learning Engineer for an year and a half til April this year.
+🌱 I'm currently learning about Kubeflow and Vision Deep Learning models.
+
 
 ## ⚡ Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) 
