@@ -3,17 +3,18 @@
 
 ### Hi there, Welcome to my github 👋
 I'm interested in Machine Learning, Computer Vision and MLOps.
-You can visit my tech blog! it can helps you understand basic deep learning functions.
 
-👼 I worked as an Machine Learning Engineer for an year and a half til April this year.
-🌱 I'm currently learning about Kubeflow and Vision Deep Learning models.
+You can visit my blog! it can helps you understand basic deep learning functions.
+
+
+- 👼 I worked as an Machine Learning Engineer for an year and a half til April this year.
+- 🌱 I'm currently learning about Kubeflow and Vision Deep Learning models.
 
 
 ## ⚡ Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhji)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhji&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
