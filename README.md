@@ -8,7 +8,7 @@ You can visit my blog! it can helps you understand basic deep learning functions
 
 
 - 👼 I worked as an Machine Learning Engineer for an year and a half til April this year.
-- 🌱 I'm currently learning about Kubeflow and Vision Deep Learning models.
+- 🌱 I'm currently learning about DevOps skills, including Kubernetes.
 
 
 ## ⚡ Languages
