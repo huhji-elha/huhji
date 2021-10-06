@@ -4,23 +4,20 @@
 ### Hi there, Welcome to my github 👋
 I'm interested in Machine Learning, Computer Vision and MLOps.
 
-You can visit my blog! it can helps you understand basic deep learning functions.
-
-
-- 👼 I worked as an Machine Learning Engineer for an year and a half til April this year.
+- 👼 I worked as Backend Developer and Machine Learning Engineer for an year and a half till April this year.
 - 🌱 I'm currently learning about DevOps skills, including Kubernetes.
 
 
-## ⚡ Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) 
+## ⚡ Skills
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=Kubernetes&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=Pytorch&logoColor=white"/> <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white"/> <img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=Pandas&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhji&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhji&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
 **huhji/huhji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-0696D7?style=flat&logo=Python&logoColor=white) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
